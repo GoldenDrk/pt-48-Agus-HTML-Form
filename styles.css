@@ -1,0 +1,41 @@
+div * {
+    box-sizing: border-box;
+}
+header {
+    background: white;
+    padding: 7px;
+    margin-bottom: 50px;
+}
+#kbsa {
+    margin: 0%;
+}
+.kajita {
+    background: white;
+    margin-top: 7px;
+    margin-bottom: 66px;
+}
+.kajita h2, .kajita p {
+    padding: 7px;
+    margin: 0%;
+}
+.kajita h2 {
+    width: 80%;
+    display: inline-block;
+    margin: 0%;
+}
+.kajita span {
+    width: 19%;
+    display: inline-block;
+    text-align: right;
+    padding: 10px;
+    color: gray;
+}
+.kuerpo {
+    width: 600px;
+    margin: auto;
+}
+img {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
